@@ -19,7 +19,7 @@ https://www.youtube.com/watch?v=5JOgsWOS-CM
 https://www.youtube.com/watch?v=guCJ0o2rUZ8
 
 * Buổi 6: Các vấn đề khác (Ajax, Route...)
-https://www.youtube.com/watch?v=TutBjMexFE
+https://www.youtube.com/watch?v=TutBjMexFE4
 
 - Khóa học lập trình PHP tại Khoa Phạm: https://khoapham.vn/lap-trinh-php.html
 - Group học lập trình: https://www.facebook.com/groups/khoaphamonline
